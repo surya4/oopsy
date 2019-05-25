@@ -1,0 +1,1 @@
+### A simple app using Docker, SocketIO, Elastic Search and Redis
